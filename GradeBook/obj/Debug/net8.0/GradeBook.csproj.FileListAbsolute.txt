@@ -1,0 +1,14 @@
+D:\csharp\source\repos\GradeBook\GradeBook\bin\Debug\net8.0\GradeBook.exe
+D:\csharp\source\repos\GradeBook\GradeBook\bin\Debug\net8.0\GradeBook.deps.json
+D:\csharp\source\repos\GradeBook\GradeBook\bin\Debug\net8.0\GradeBook.runtimeconfig.json
+D:\csharp\source\repos\GradeBook\GradeBook\bin\Debug\net8.0\GradeBook.dll
+D:\csharp\source\repos\GradeBook\GradeBook\bin\Debug\net8.0\GradeBook.pdb
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\GradeBook.AssemblyInfoInputs.cache
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\GradeBook.AssemblyInfo.cs
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\GradeBook.csproj.CoreCompileInputs.cache
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\GradeBook.dll
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\refint\GradeBook.dll
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\GradeBook.pdb
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\GradeBook.genruntimeconfig.cache
+D:\csharp\source\repos\GradeBook\GradeBook\obj\Debug\net8.0\ref\GradeBook.dll
